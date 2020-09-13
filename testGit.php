@@ -2,7 +2,7 @@
 <html>
     
 <body>
-<div>Github location  https://github.com/nlbrown/WDV341/blob/master/testgit.php</div><br>
+<div>Github location  https://https://github.com/nlbrown/WDV341/blob/master/testGit.php</div><br>
 
 <?php
      static $Norm = "Norman Brown"; 
